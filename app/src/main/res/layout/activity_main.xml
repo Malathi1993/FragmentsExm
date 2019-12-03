@@ -9,21 +9,21 @@
     <fragment
         android:id="@+id/malathi"
         android:name="com.example.fragmentsexm.Malathi"
-        android:layout_width="0px"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_weight="1"
-        />
+        android:layout_weight="1" />
 
     <fragment
         android:id="@+id/mounika"
         android:name="com.example.fragmentsexm.Mounika"
-        android:layout_width="138dp"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_weight="1" />
+
     <fragment
         android:id="@+id/manasa"
         android:name="com.example.fragmentsexm.Manasa"
-        android:layout_width="0px"
+        android:layout_width="103dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
 
